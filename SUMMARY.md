@@ -4,5 +4,5 @@
 
 ## Essays
 
-* [The Hidden 90%](essays/the-hidden-90.md)
+* [The Hidden 90% of Design Direction](essays/the-hidden-90.md)
 

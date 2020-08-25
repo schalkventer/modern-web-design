@@ -1,8 +1,8 @@
-# The Hidden 90%
+# The Hidden 90% of Design Direction
 
 **I recently started doing some Interaction Design curriculum development for the** [**Creative Academy**](https://creativeacademy.ac.za)**, a tertiary-level design school based in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
 
-It's been a couple of years since I started my own journey into the world of web-design, and in the context of the former, I thought about retracing some of steps that lead me to where I find myself today. This included, amongst others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
+It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I thought about retracing some of steps that lead me to where I find myself today. This included, amongst others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
 
 ![](../.gitbook/assets/iceberg.png)
 
@@ -26,21 +26,41 @@ Obviously I've over-dramatised the above for comedic effect, in practice the abo
 >
 > Collaboration and coordination are critical elements in the success of projects in most \(if not all\) modern organizations. There isn’t a single individual who is responsible for coming up with an idea, designing it, building it, selling it, and supporting it. Instead, these responsibilities and the expertise that come with them are divided among a variety of contributors who each bring knowledge to the team. So, we need to work together, combining our skills and know-how. And to work together, we need to talk with one another. We need to discuss what it is we’re designing, why we’re creating it, and how it will all come together.
 
-### 
+However, it seems that change was on the horizon.
 
 ### Enter Human-Centered Design
 
-Over time, much to my delight, I started seen the field of user experience and product design really start picking up on this notion. [User personas](https://en.wikipedia.org/wiki/Persona_%28user_experience%29) and [user stories](https://en.wikipedia.org/wiki/User_story) started becoming the rule rather than the exception across the industry. In retrospect, it almost seems unreal how quickly these practices were adopted into the work we were doing at [OpenUp](https://openup.org.za/) for [South Africa's National Department of Treasury](https://openup.org.za/projects/vulekamali), a government department known for its adheres to annual waterfall cycles.
+Over time, much to my delight, I started seeing teams really catch onto this notion. [User personas](https://en.wikipedia.org/wiki/Persona_%28user_experience%29) and [user stories](https://en.wikipedia.org/wiki/User_story) started becoming the rule rather than the exception across the industry. In retrospect, it almost seems unreal how quickly these practices were adopted into the work we were doing at [OpenUp](https://openup.org.za/) for [South Africa's National Department of Treasury](https://openup.org.za/projects/vulekamali), a government department known for its adheres to five-year annual waterfall cycles.
 
 **Truly the language of user-centred design has become mainstream.**
 
-While these were super-helpful tools in interrogating the ontological side of things \(meaning what exactly we were building, what will be included and how it will be structured\), I couldn't help but feel that there was still something missing: a deliberate and calculated way in which to iterate over the look and feel of the content and structure. More often than not conversations about stylistic decisions were preceded by designer retreating behind some magic creative curtain, re-emerging with beatifully crafted interface elements.
+While these turned out to be super-helpful when interrogating the ontological side of things \(in other words, figuring out what exactly we need to build, and how it will be structured\), I couldn't help but feel that there was still one piece of the puzzle missing: a deliberate and calculated way in which to iterate over the look and feel of the content and structure. More often than our conversations about stylistic decisions were preceded by the designer retreating behind the above mentioned magic-creative-curtain, while re-emerging with beatifully crafted interface elements. To be fair, we were lucky enough to have the extremely talented [Matthew Stark](http://matthewstark.co/) onboard, which means that more often than not we landed firmly on our feet. However, I couldn't help feeling that the way we went about this coalesced in one massive visual leap of faith.
 
-It felt like the client was dragged from the meticulious world of content and structure to the world of look and feel in one big leap of faith.
+In short it can be summarised as the following two-step process:
 
-### Tearing the Veil
+1. Have an initial discussion that includes a lot of my branding-speak bingo items: 'Playful', 'Modern', 'Friendly', 'Classic', 'Trustworthy', 'Professional' and/or 'Delighftul'.
+2. After some time the design team present the rest of the team/client with a design that they feel represent these adjectives.
+3. If the latter doesn't quite hit the mark then the process is repeated again.
 
-...
+It felt like we were continually being teleported between the meticulious world of content and structure with and the fuzzy world of look, feel and style. 
+
+### Risk Management
+
+**This might sound a lot like the way you or your team approach the issue of design direction.**
+
+You might even tell me that this process works very well for you.
+
+The sheer scope and plurality of approaches in the current web design landscape are so beyond what a single person can comprehend, that I don't claim to have any insight into aone-true approach that works for everyone. It is very possible that the risk associated with the above in your own context might be so small that rethinking the way you design might actually result in a negative [return on investment](https://en.wikipedia.org/wiki/Return_on_investment). There is a big difference between getting the general look-and-feel wrong on a personal blog and getting the look-and-feel wrong on something like a [https://pmg.org.za](https://pmg.org.za/).
+
+It might also be that you are already working inside well-established stylistic confines. Perhaps you are part of a massive corporate brand that has a well-thought out design system, styleguide and pattern library: essentially web design heaven.
+
+However if you are stuck in web design purgatory like the rest of us then the following is for you.
+
+### Manoeuvres in the Dark
+
+
+
+
 
 ![](../.gitbook/assets/messy%20%281%29.png)
 
