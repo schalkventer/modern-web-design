@@ -34,7 +34,7 @@ While these were super-helpful tools in interrogating the ontological side of th
 
 It felt like the client was dragged from the meticulious world of content and structure to the world of look and feel in one big leap of faith.
 
-### Ripping the Veil
+### Tearing the Veil
 
 ...
 
