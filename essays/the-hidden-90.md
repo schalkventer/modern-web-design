@@ -1,8 +1,8 @@
 # The Hidden 90%
 
-**I recently started doing Interaction Design curriculum development for the** [**Creative Academy**](https://creativeacademy.ac.za)**, a tertiary-level visual design school based in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
+**I recently started doing some Interaction Design curriculum development for the** [**Creative Academy**](https://creativeacademy.ac.za)**, a tertiary-level design school based in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
 
-It's been a couple of years since I started my own journey into the world of web design and development and subsequently I thought about retracing some of the steps that lead to where I find myself today. This included, amongst others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com) by [Brad Frost](https://bradfrost.com/). I also dug around on the ever timeless [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/). 
+It's been a couple of years since I started my own journey into the world of web-design, and in the context of the former, I thought about retracing some of the steps that lead to where I find myself today. This included, amongst others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com) by [Brad Frost](https://bradfrost.com/). I also went back into the history of seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
 
 ![](../.gitbook/assets/iceberg.png)
 
