@@ -10,5 +10,15 @@ Granted, it's been almost a decade now so I was anticipating that some of these 
 
 > When you engage in a new client project how do you get started? A solid process plays a critical role in the project’s overall success, yet this process is one of the deepest darkest secrets of our industry.
 
+Not only has my time in the industry shaped my appreciation for how easy it is for a design project and process to get out of control, but also how much active facilitation and expectation is required by the actual designer \(or design team\) to avoid things from going off-track. 
+
+### Another Type of Interface
+
+**Almost a decade ago I had a naive expectation that a designer's job would be purely technical in nature.** 
+
+Recently, I've come to realise that you're not only designing external-facing artifacts to help a user navigate and understand the product but that you're also designing internal-facing artifacts intended to help the client \(or team\) navigate and understand the design process.
+
+
+
 
 
