@@ -1,8 +1,8 @@
 # The Hidden 90%
 
-**I recently started teaching and doing curriculum development and the** [**Cape Town Creative Academy**](https://creativeacademy.ac.za)**, located in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
+**I recently started teaching and doing curriculum development at the** [**Creative Academy**](https://creativeacademy.ac.za)**, based in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
 
-It's been a couple of years since I got into the world of web design and development, so I had to retrace some of my steps that lead to where I find myself today. This included, amongst others, rummaging through my bookcase in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com) by [Brad Frost](https://bradfrost.com/). I also dug around on the ever timeless [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/). 
+It's been a couple of years since I started out in the world of web design and development, so in order to meet the students where they are I had to retrace some of my steps that lead to where I find myself today. This included, amongst others, rummaging through my bookcase in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com) by [Brad Frost](https://bradfrost.com/). I also dug around on the ever timeless [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/). 
 
 ![](../.gitbook/assets/iceberg.png)
 
