@@ -28,8 +28,6 @@ Over time I've come to realise that modern-day web designers are not only design
 
 However, it seems that change was on the horizon.
 
-### Enter Human-Centered Design
-
 Over time, much to my delight, I started seeing teams catch onto this notion. [User personas](https://en.wikipedia.org/wiki/Persona_%28user_experience%29) and [user stories](https://en.wikipedia.org/wiki/User_story) started becoming the rule rather than the exception across the industry. In retrospect, it seems unreal how easily we adopted these processes into the work we were doing for [South Africa's National Department of Treasury](https://openup.org.za/projects/vulekamali), a government department known for its adheres to five-year annual waterfall cycles.
 
 **Indeed the language of user-centred design has become mainstream.**
@@ -44,7 +42,7 @@ In short, we can summarise it as follows:
 
 It felt like we were continually being teleported between the meticulous world of content and structure with and the fuzzy world of look, feel and style. 
 
-### Risk Management
+### Design as Remix
 
 **The above might sound a lot like the way you or your team approach the issue of design direction.**
 
