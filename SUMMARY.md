@@ -4,5 +4,5 @@
 
 ## Essays
 
-* [The Other 90% of Design Direction](essays/the-hidden-90.md)
+* [The 90% of Establishing Style](essays/the-hidden-90.md)
 
