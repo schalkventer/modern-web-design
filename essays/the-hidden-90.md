@@ -2,19 +2,19 @@
 
 **I recently started doing some Interaction Design curriculum development for the** [**Creative Academy**](https://creativeacademy.ac.za)**, a tertiary-level design school based in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
 
- It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I thought about retracing some of the steps that lead me to where I find myself today. The latter included, amongst others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
+It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I thought about retracing the steps that lead me to where I find myself today. The latter included, amongst others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and the more recent [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
 
 ![](../.gitbook/assets/iceberg.png)
 
- Given that it's been almost a decade now, I was \(perhaps reasonably\) anticipating that most of the material would age quite poorly. To the contrary, I was surprised by the degree to which some of former still hold up. One thing I didn't anticipate though is just for how my own experiences over the last couple of years would shape how differently I would read them. Some sections and paragraphs that I quickly glossed over initially ended up being treasure troves of insight this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current director of design at [Adobe](https://www.adobe.com/)\):
+Given that it's been almost a decade now, I was \(perhaps reasonably\) anticipating that most of the material would age quite poorly. To the contrary, I was surprised by the degree to which some of former still hold up. One thing I didn't anticipate though is how my own experiences over the last couple of years would shape how I would read them. Some sections and paragraphs that I glossed over initially ended up being treasure troves of insight this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current director of design at [Adobe](https://www.adobe.com/)\):
 
 > _When you engage in a new client project how do you get started? A solid process plays a critical role in the project’s overall success, yet this process is one of the deepest darkest secrets of our industry_.
 
 My time in the industry shaped my appreciation for the ease with which a robust design process can go off the rails. Furthermore, I also came to understand how much of the former is due to a designer \(or design team\) not fully stepping into the facilitator role.
 
-### The Hidden Interface
+### A Facilitator's Interface
 
- **Almost a decade ago, I had a naive expectation that a designer's job would be purely technical.** 
+**At some point I had a naive expectation that a designer's job would be purely technical.** 
 
 Over time I've come to realise that modern-day web designers are not only designing external-facing deliverables, but also internal-facing artefacts intended to help the client \(or team\) navigate the design process itself. Inevitably I became aware of how anaemic this aspect of the process tends to be in the industry at large. From what I've been able to piece together this seems to come down to a misconception of most designers as solitary, creative geniuses that disappear into their respectively little cubicles and re-emerge with artistic brilliance.
 
