@@ -56,13 +56,35 @@ It might also be that you are already working inside well-established stylistic 
 
 However, for the rest of us that are stuck in web design purgatory, the following tend to be a helpful addition to our process:
 
+### The Root of the Problem
+
+...
+
 ### Manoeuvres in the Dark
+
+...
 
 
 
 
 
 ![](../.gitbook/assets/messy%20%281%29.png)
+
+### Placing our Pins
+
+...
+
+### Helpful Resources
+
+...
+
+### A Word of Warning
+
+...
+
+### Further Reading
+
+...
 
 
 
