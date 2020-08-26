@@ -4,5 +4,5 @@
 
 ## Essays
 
-* [The 90% of Establishing Style](essays/the-hidden-90.md)
+* [Design Direction: The Weird Parts](essays/the-hidden-90.md)
 

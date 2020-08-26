@@ -1,4 +1,4 @@
-# The 90% of Establishing Style
+# Design Direction: The Weird Parts
 
 ![](../.gitbook/assets/iceberg.png)
 
@@ -40,9 +40,9 @@ In short, we can summarise it as follows:
 2. After some time, the design team present the rest of the team/client with a design that they feel represent these adjectives.
 3. If the latter doesn't quite hit the mark, then the process is repeated.
 
-It felt like we were continually being teleported between the meticulous world of content and structure with and the fuzzy world of look, feel and style. 
+It felt like we were continually being teleported between the meticulous world of content and structure with and the upside-down world of look, feel and style.
 
-### Design as Remix
+### Design as Remixing
 
 **The above might sound a lot like the way you or your team approach the issue of design direction.**
 
@@ -58,7 +58,7 @@ However, for the rest of us that are stuck in web design purgatory, there are pr
 
 **Wrong.**
 
-When compared to tools for establishing the structure of your product, the discourse and tooling for establishing a look-and-feel seem pretty far and few between. In my experience those that do share their process and experience with the latter tend to also be big advocates of [designing in the open](https://bradfrost.com/blog/post/designing-in-the-open). Some notable examples are:
+ When compared to tools for establishing the structure of your product, the discourse and tooling for establishing a look-and-feel seem pretty apart far and few. In my experience, those that tend to talk about this part of the design process also tend to be big advocates of [designing](https://bradfrost.com/blog/post/designing-in-the-open) publicly. Some notable individuals are:
 
 * [Dan Mall](https://danmall.me/)
 * [Andy Clark](https://stuffandnonsense.co.uk/about)
@@ -66,7 +66,7 @@ When compared to tools for establishing the structure of your product, the disco
 
 One can only speculate, but my guess would be that at the root of this an insecurity of what it means to be a designer in the industry at large. Perhaps the reason why the discussion around this is so sparse is that it highlights something that is at odds with our initial understand above of the role of a designer. I.e. that a designer is someone that applies their entire creative being into conjuring something from the nothingness of a blank screen or canvas.
 
-In my personal experience as a designer this very far from the truth. Designers, and web designers especially, are deeply embedded in what anthropologist like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) would call bricolage:
+In my personal experience, as a designer, this very far from the truth. Designers, and web designers especially, are deeply embedded in what anthropologist like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) would call bricolage:
 
 > _"This is what is commonly called ‘bricolage’ in French. In its old sense the verb ‘bricoler’ applied to ball games and billiards, to hunting, shooting and riding. It was however always used with reference to some extraneous movement: a ball rebounding, a dog straying or a horse swerving from its direct course to avoid an obstacle. And in our own time the 'bricoleur' is still someone who works with his hands and uses devious means compared to those of a craftsman. \[...\]_
 >
@@ -76,25 +76,41 @@ In my personal experience as a designer this very far from the truth. Designers,
 
 **That is quite a mouthful!** 
 
-Luckily, Austin Kleon paraphrases it for us as follows in his New York Times Bestseller, titled ["Steal Like an Artist](https://austinkleon.com/steal/)":
+Luckily, [Austin Kleon](http://austinkleon.com/) paraphrases it as follows in his New York Times Bestseller, titled [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\):
 
-> The writer Jonathan Lethem has said that when people call something “original,” nine out of ten times they just don’t know the references or the original sources involved. What a good artist understands is that nothing comes from nowhere. All creative work builds on what came before. Nothing is completely original.
+> _The writer Jonathan Lethem has said that when people call something “original,” nine out of ten times they just don’t know the references or the original sources involved. What a good artist understands is that nothing comes from nowhere. All creative work builds on what came before. Nothing is completely original._
 >
-> \[...\]
+> _\[...\]_
 >
-> If we’re free from the burden of trying to be completely original, we can stop trying to make something out of nothing, and we can embrace influence instead of running away from it.
+> _If we’re free from the burden of trying to be completely original, we can stop trying to make something out of nothing, and we can embrace influence instead of running away from it._
 
-...
+**In short:**
 
-### Manoeuvres in Darkness
-
-...
-
-
-
-
+Not only do I see the way towards a more deliberate process around style direction as being embedded in design as remixing, but that it furthermore requires us to have the courage to expose this part of the process to our peers and clients.
 
 ![](../.gitbook/assets/messy%20%281%29.png)
+
+### Manoeuvres with a Black Marker
+
+It is perhaps interesting to note that Austin Kleon, which we quote above, initially made a name for himself creating [Vocabularyclept poems](https://en.wikipedia.org/wiki/Vocabularyclept_poem). A technique initially devised by early [Dadaists](https://en.wikipedia.org/wiki/Dada), in which a series of poems are created by recomposing existing material such as newspaper clippings or even existing literature. Furthermore, late Beat-era poet, [William S. Burroughs](https://en.wikipedia.org/wiki/William_S._Burroughs), pushed this concept to its limit with his 336-page work of fiction titled [The Soft Machine](https://en.wikipedia.org/wiki/The_Soft_Machine) \(1961\). Both Kleon and Burroughts, in creating these works, highlight the fact that bricolage is dependant on negation as much as it is about reappropriation. As Mark Twain put it:
+
+> Writing is easy. All you have to do is cross out the wrong words
+
+Likewise, I would say that establishing a design direction is easy, you just need to cross out the wrong directions. In his seminal Atomic Design \(2016\), Brad Frost remarked that digital design is similar to  subtractive process of sculpting: 
+
+> I believe a successful digital design process is quite similar to subtractive stone sculpture. At the beginning of the sculpting process, the artist and their patron have a general idea of what’s being created, but that vision won’t be fully realized until the sculpture is complete.
+>
+> The sculptor starts with a giant slab of rock and starts chipping away. A crude shape begins to form after the first pass, and the shape becomes more pronounced with every subsequent pass. After a few rounds of whacking away at the rock, it becomes clear that the sculptor’s subject is a human form.
+
+I've shared this anologue with various practitioners and students over the years as an example indicating how we should start out with broad strokes of negation \(or as Brad put it "whacking away at rock"\). However, I always felt that there might be a better analogy, since the above doesn't make provision for keeping track of this process by means of artefacts. That is until I stumbled across an analogue that does allow this:
+
+**The game of** [**Battleship**](https://en.wikipedia.org/wiki/Battleship_%28game%29)\*\*\*\*
+
+![Source: Alibaba.com](../.gitbook/assets/htb1a.e9e5lak1rjszfxq6ympfxa3.jpg_350x350.jpg)
+
+
+
+If you're not familiar with it the rules are as follows:
 
 ### Placing our Pins
 
