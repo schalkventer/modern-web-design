@@ -117,9 +117,18 @@ I've shared this anologue with various practitioners and students over the years
 
 If you're not familiar with it the rules are as follows:
 
+* Each player starts with two grid-based surfaces:
+  * One to place your ships and record which \(and where\) your own ships have been hit
+  * Another to record your own shots against the other player \(and whether they missed or hit\)
+* Players take turns to fire shots by guessing coordinates where they think the other player's ships might be placed \(for example `E2` or `H7`\)
+* If you guessed correctly you add a red pin, if you guessed incorrectly you add a white pin.
+* The first one to sink all of the other player's ships wins.
+
 ### Placing our Pins
 
-...
+This might seem a bit antagonistic, especially when talking about clients or the marketing team.
+
+![](../.gitbook/assets/line.png)
 
 ### Helpful Resources
 
