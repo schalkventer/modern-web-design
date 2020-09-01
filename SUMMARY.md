@@ -4,5 +4,5 @@
 
 ## Essays
 
-* [Agreeing on a Style: The Weird Parts](essays/the-hidden-90.md)
+* [Agreeing on Style: The Weird Parts](essays/the-hidden-90.md)
 

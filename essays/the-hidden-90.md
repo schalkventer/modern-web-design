@@ -1,4 +1,11 @@
-# Agreeing on a Style: The Weird Parts
+---
+description: >-
+  The current digital product design world sports a seemingly endless array of
+  tools and process which we are able to employ in service of establishing the
+  functionality and structure of our products. T
+---
+
+# Agreeing on Style: The Weird Parts
 
 ![](../.gitbook/assets/iceberg.png)
 
