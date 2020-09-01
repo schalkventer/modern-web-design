@@ -4,7 +4,7 @@
 
 **I recently started teaching Interaction Design at the** [**Creative Academy**](https://creativeacademy.ac.za)**, a tertiary-level design school situated in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
 
-It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I started retracing some of my steps. This included, amongst others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
+It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I started retracing some of my steps. This included, among others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
 
 Given that it's been almost a decade now, I was \(perhaps reasonably\) anticipating that most of the material would age quite poorly. To the contrary, I was surprised by the degree to which it still holds up. One thing I didn't anticipate though is how my own experiences over the last couple of years would shape how I would re-read them. Some sections and paragraphs that I glossed over initially ended up being treasure troves of insight this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current _Director of Design_ at [Adobe](https://www.adobe.com/)\):
 
@@ -12,13 +12,13 @@ Given that it's been almost a decade now, I was \(perhaps reasonably\) anticipat
 >
 > — Samantha Warren, [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work)
 
-My time in the industry shaped my appreciation for the ease with which a robust design process can derail. Furthermore, I also came to understand how much of the former is due to a designer \(or design team\) not fully stepping into the facilitator role.
+I could perhaps not have said this any better myself. My time in the industry shaped my appreciation for the ease with which a robust design process can derail due to a designer \(or design team\) not fully stepping into their role as process facilitator.
 
 ### A Facilitator's Interface
 
 **At some point, I had a naive expectation that a designer's job would be purely technical.** 
 
-Over time I've come to realise that modern-day web designers are not only designing external-facing deliverables, but also internal-facing artefacts intended to help the client \(or team\) navigate the design process itself. I also became aware of how anaemic this part of the process tended to be. From what I've been able to piece together at that time it seemed to come down to a misconception of designers as solitary, creative creatures that disappear into their respectively little caves \(or perhaps cubicles\) and re-emerge with a creative masterpiece.
+Over time I've come to realise that modern-day web designers not only design external-facing deliverables, but also internal-facing experiences intended to help the client \(or team\) navigate the design process itself. I also became aware of how anaemic this part of the process tended to be. From what I've been able to piece together at that time it seemed to come down to a misconception of designers as solitary, creative creatures that disappear into their respectively little caves \(or perhaps cubicles\) and re-emerge with a creative masterpiece.
 
 I've over-dramatised the above for comedic effect. In practice, the former tends to plays out more subtly. To quote [Adam Connor](http://adamconnor.com/) and [Aaron Irizarry](https://www.linkedin.com/in/aaroni/) from their seminal [Discussing Design](https://www.oreilly.com/library/view/discussing-design/9781491902394/) \(2015\):
 
@@ -28,21 +28,21 @@ I've over-dramatised the above for comedic effect. In practice, the former tends
 >
 > Collaboration and coordination are critical elements in the success of projects in most \(if not all\) modern organizations. There isn’t a single individual who is responsible for coming up with an idea, designing it, building it, selling it, and supporting it. Instead, these responsibilities and the expertise that come with them are divided among a variety of contributors who each bring knowledge to the team. So, we need to work together, combining our skills and know-how. And to work together, we need to talk with one another. We need to discuss what it is we’re designing, why we’re creating it, and how it will all come together.
 
-Luckily for me, it appeared as of change was on the horizon.
+Luckily for me, it appeared as if change was on the horizon.
 
-I started seeing teams catch onto this notion. [Personas](https://en.wikipedia.org/wiki/Persona_%28user_experience%29), [experience maps](https://en.wikipedia.org/wiki/User_journey) and [user stories](https://en.wikipedia.org/wiki/User_story) started becoming the rule rather than the exception. In my own microcosm at OpenUp, it seems unreal how easily we were able to persuade  [South Africa's National Department of Treasury](https://openup.org.za/projects/vulekamali), a government department known for its layers of bureaucracy, to approach work in this manner.
+I started seeing teams catch onto this notion. [Personas](https://en.wikipedia.org/wiki/Persona_%28user_experience%29), [experience maps](https://en.wikipedia.org/wiki/User_journey) and [user stories](https://en.wikipedia.org/wiki/User_story) started becoming the rule rather than the exception. In my own microcosm at OpenUp, it seems unreal how easily we were able to persuade  [South Africa's National Department of Treasury](https://openup.org.za/projects/vulekamali), a government department known for layers of bureaucracy, to take on a user-centered design approach. 
 
-**Indeed the language of user-centred design has become mainstream.**
+**Indeed the language of usability has become mainstream.**
 
-However, I couldn't help but feel that we still missed one piece of the puzzle: a deliberate and calculated way in which to iterate and discuss stylistic \(otherwise known as look-and-feel\) concerns. More often than not conversations about stylistic decisions were preceded by designers retreating behind their magic-creative-curtain, while re-emerging with beautifully styled interface elements. We were lucky enough to have the incredibly talented [Matthew Stark](http://matthewstark.co/) on board, which means that more often than not, we landed firmly on our feet. However, I couldn't shake the feeling our approach ended up coming down to a sprint-long leap of faith before we had something to start talking about.
+However, I couldn't help but feel that we still missed one piece of the puzzle: a deliberate and calculated way in which to iterate and discuss stylistic \(otherwise known as look-and-feel\) concerns. More often than not conversations about stylistic decisions were preceded by designers retreating once again behind their magic-creative-curtain and re-emerging with beautifully styled elements. We were lucky enough to have the incredibly talented [Matthew Stark](http://matthewstark.co/) on board, which means that more often than not, we landed firmly on our feet. However, I couldn't shake the feeling our approach ended up coming down to a leap of faith before we had something to discuss.
 
 In short, it went something along these lines:
 
-1. Have an initial discussion that included a lot of my branding-speak bingo: 'Respected', 'Playful', 'Modern', 'Friendly', 'Classic', 'Trustworthy', 'Professional' or 'Delightful'.
-2. After some time, designers would then present a general look and feel they feel represent these adjectives.
-3. If the latter didn't quite hit the mark, then the process repeated.
+1. Have an initial discussion that included a lot of my branding-speak bingo: 'Respected', 'Playful', 'Modern', 'Friendly', 'Classic', 'Trustworthy', 'Professional' or 'Delightful' \(to name a few\).
+2. Designers would leave and after some time present a general look and feel they feel represent these adjectives.
+3. If the latter didn't quite hit the mark, then the process was repeated.
 
-It felt like we were continually being teleported between the meticulous world of content/structure and the fuzzy world of style.
+It felt like we were continually being teleported between the meticulous world of content/structure and the fuzzy world of stylistic concerns.
 
 ### Design as Remixing
 
@@ -50,28 +50,26 @@ It felt like we were continually being teleported between the meticulous world o
 
 You might even tell me that this process works very well for you.
 
-The sheer scope and plurality of approaches in the current web design landscape are so far beyond what a single person can comprehend. I don't claim to have any insight into the one-true process that works for everyone. The risk associated with the above in your context might be so small that rethinking your design process might event result in a negative return on investment. There is a big difference between getting the general look-and-feel wrong of a personal blog and getting the look-and-feel wrong of a governmental's public data portal.
+The sheer scope and plurality of approaches in the current web design landscape are so far beyond what a single person can comprehend that I don't claim to have any insight into a one-true process. The risk associated with the above in your context might be so small that the lost efficiency of revisiting your process might event not be worth it. There is a big difference between starting again from scratch when talking about the general look-and-feel of a personal blog and the look-and-feel of a governmental's public data portal.
 
-It might also be that you are already working inside well-established stylistic confines. Perhaps you are part of a large corporate brand that already has a well thought-out design system, style guide and pattern library.
+It might also be that you are already working inside well-established stylistic confines. Perhaps you are part of a larger corporate brand that already has a well thought-out design system, style guide and pattern library.
 
 **I short: web design heaven.**
 
-However, for the rest of us that are still stuck in web design purgatory, there should be probably numerous discussions on this topic? Right?
+However, for the rest of us that are still stuck in web design purgatory, there is probably numerous discussions and solutions to this problem? Right?
 
- **Wrong.**
+**Not exactly.**
 
-When compared to discussions around the structure of digital products, the discourse around establishing a look-and-feel seem barren. Luckily, it's not completely missing. You just need to do some digging. In my experience, these folks tend to talk about it somewhat:
+When compared to discussions around the process as related to the structure of digital products, the discourse around establishing a look-and-feel seem pretty pale. Luckily, it's not completely missing. You just need to know where to look. In my experience, it tends to follow these folks:
 
 * [Dan Mall](https://danmall.me/)
 * [Andy Clark](https://stuffandnonsense.co.uk/about)
 * [Brad Frost](https://bradfrost.com/)
 * [The Clearleft Team](https://clearleft.com/)
 
-However, an interesting observation that I made while researching this topic is that those that tend to talk about this part of the design process also tend to be big advocates of [designing in the open](https://bradfrost.com/blog/post/designing-in-the-open). I can only speculate. However, my guess would be that at the root of this problem of designers not wanting to discuss/share about the look-and-feel part of their process is that it is rooted in insecurity. In my opinion, it highlights something that is at odds with the common understanding of designers as shared above. In short:
+An interesting observation about the above: they tend to be big advocates of [designing in the open](https://bradfrost.com/blog/post/designing-in-the-open) too. I can only speculate, but my guess is that at the root of our reluctance to discuss/share about the look-and-feel part of their process is that it is rooted in insecurity. One that brings to the forefront something that is at odds with the common solitary, creative-creatures understanding of designers as shared above. 
 
-As creative creatures that disappear into their respectively little caves and re-emerge with a creative masterpiece. The implication being that these creatures are able to wield some hidden black-magic in order to conjure a vision from the nothingness of a blank screen or canvas.
-
-My persona experience is a bit at odds with this. All designers, but web designers specifically, are deeply embedded in what anthropologists like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) would call [bricolage](https://en.wikipedia.org/wiki/Bricolage):
+My persona experience is a bit at odds with this. Web designers \(perhaps more so than other design fields\) are deeply embedded in what anthropologists like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) call [bricolage](https://en.wikipedia.org/wiki/Bricolage):
 
 > _"This is what is commonly called ‘bricolage’ in French. In its old sense the verb ‘bricoler’ applied to ball games and billiards, to hunting, shooting and riding. It was however always used with reference to some extraneous movement: a ball rebounding, a dog straying or a horse swerving from its direct course to avoid an obstacle. And in our own time the 'bricoleur' is still someone who works with his hands and uses devious means compared to those of a craftsman. \[...\]_
 >
@@ -81,7 +79,7 @@ My persona experience is a bit at odds with this. All designers, but web designe
 
 **That is quite a mouthful!** 
 
-Luckily, [Austin Kleon](http://austinkleon.com/) paraphrases it as follows in his New York Times Bestseller title, [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\):
+Luckily, [Austin Kleon](http://austinkleon.com/) paraphrases it as follows in [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\):
 
 > _The writer Jonathan Lethem has said that when people call something “original,” nine out of ten times they just don’t know the references or the original sources involved. What a good artist understands is that nothing comes from nowhere. All creative work builds on what came before. Nothing is completely original._
 >
@@ -97,17 +95,19 @@ Not only do I see the way towards a more deliberate process around style/look-an
 
 ### Manoeuvres with Black Markers
 
-It is perhaps interesting to note that Austin Kleon, initially made a name for himself by creating [Vocabularyclept poems](https://en.wikipedia.org/wiki/Vocabularyclept_poem). A technique initially devised by early [Dadaists](https://en.wikipedia.org/wiki/Dada), in which a series of poems are assembly with existing textual content from newspaper clippings or even existing literature. Late Beat-era poet, [William S. Burroughs](https://en.wikipedia.org/wiki/William_S._Burroughs), really pushed this concept to its limit with a 336-page work of fiction titled [The Soft Machine](https://en.wikipedia.org/wiki/The_Soft_Machine) \(1961\). Both Kleon and Burroughts, in creating these works, bring to the forefront not only how central bricolage is to the act of creation, but that selecting what to leave \(by the act of cutting itself\) is equal in centrality. As Mark Twain elequently put it:
+It is perhaps interesting to note that Austin Kleon, initially made a name for himself by creating [Vocabularyclept poems](https://en.wikipedia.org/wiki/Vocabularyclept_poem). A technique initially devised by early [Dadaists](https://en.wikipedia.org/wiki/Dada), in which a series of poems are assembled with existing textual content from newspaper clippings or even existing literature. Late Beat-era poet, [William S. Burroughs](https://en.wikipedia.org/wiki/William_S._Burroughs), really pushed this concept to its limit with a 336-page work of fiction titled [The Soft Machine](https://en.wikipedia.org/wiki/The_Soft_Machine) \(1961\). Both Kleon and Burroughts, in creating these works, bring to the highlight not only how central bricolage is to the act of creation, but that selecting what to not include \(by the act of cutting itself\) is equal in centrality. As Mark Twain elequently put it:
 
 > Writing is easy. All you have to do is cross out the wrong words
 
-I would say that establishing a look-and-feel direction is easy, you just need to cross out the wrong directions. Brad Frost further remarked that the process of web design is similar to the subtractive process of sculpting: 
+I would say that establishing a look-and-feel direction is easy, you just need to cross out the wrong directions. Brad Frost further expanded on this concept by comparing web design to the subtractive process of sculpting: 
 
 > I believe a successful digital design process is quite similar to subtractive stone sculpture. At the beginning of the sculpting process, the artist and their patron have a general idea of what’s being created, but that vision won’t be fully realized until the sculpture is complete.
 >
 > The sculptor starts with a giant slab of rock and starts chipping away. A crude shape begins to form after the first pass, and the shape becomes more pronounced with every subsequent pass. After a few rounds of whacking away at the rock, it becomes clear that the sculptor’s subject is a human form.
 
-I've shared this anologue with various practitioners and students over the years. It has served me extremely well. The critical implication \(once again\) being that similar to the sculpture we should start with broad strokes of negation \(or as Brad put it "whacking away at rock"\). However, I always felt that there might be a better analogy, since the above doesn't make provision for process artefacts. That is until I stumbled across an analogue that does allow this:
+I've shared this analogue with various practitioners and students over the years. It has served me extremely well. The critical implication \(once again\) being that similar to sculpturing we should start with broad strokes of negation \(or as Brad put it "whacking away at rock"\) before we start refining smaller details. 
+
+However, I always felt that there might be a better analogy, since the above doesn't make provision for material artefacts that might guide this process. That is until I stumbled across an analogue that does allow this:
 
 **The game of** [**Battleship**](https://en.wikipedia.org/wiki/Battleship_%28game%29)\*\*\*\*
 
@@ -115,20 +115,30 @@ I've shared this anologue with various practitioners and students over the years
 
 
 
-If you're not familiar with it the rules are as follows:
+If you're not familiar with the rules of Battleship, they are as follows:
 
-* Each player starts with two grid-based surfaces:
-  * One to place your ships and record which \(and where\) your own ships have been hit
-  * Another to record your own shots against the other player \(and whether they missed or hit\)
-* Players take turns to fire shots by guessing coordinates where they think the other player's ships might be placed \(for example `E2` or `H7`\)
-* If you guessed correctly you add a red pin, if you guessed incorrectly you add a white pin.
-* The first one to sink all of the other player's ships wins.
+1. Each player starts with two grid-based surfaces:
+   * One to place your ships and record which of \(and where\) your own ships have been hit.
+   * Another to record your own shots against the other player \(and whether they miss or hit\).
+2. Players take turns to fire shots by guessing coordinates where the other player's ships might be placed \(for example `E2` or `H7`\)
+3. If you guess correctly you add a red pin to a grid, if you guessed incorrectly you add a white pin.
+4. The first one to sink all of the other player's ships wins.
 
 ### Placing our Pins
 
-This might seem a bit antagonistic, especially when talking about clients or the marketing team.
+Once you've played a couple of games of Battleship you'll naturally end up following this true and trusted approach: 
+
+**Start by scattering your guesses as widely as possible and only once something is hit you should start sweeping the immediate area around it, mapping out the type and shape of the ship.**
+
+However, there is something extremely fitting for me in the iterative manner that this happens in Battleship. I see a lot of parallels in how my own process evolved over the past years. Returning back to the leap-of-faith example I cited above wit is easy to see how this approach stands in opposition to that. 
+
+It would be akin to guessing an array of coordinates at once and then only depending whether they hit or not, clearing the entire board and perhaps starting again if you didn't sink all their ships. Essentially going from the vague/wide space of adjectives to a concrete/narrow scope of actual elements in a single shot \(without no iteration/feedback in between\).
+
+Luckily there are tools to do this is more systematic, gradual and measured manner.
 
 ![](../.gitbook/assets/line.png)
+
+### 
 
 ### Helpful Resources
 
