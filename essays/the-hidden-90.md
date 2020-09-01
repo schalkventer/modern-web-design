@@ -4,21 +4,27 @@
 
 **I recently started teaching Interaction Design at the** [**Creative Academy**](https://creativeacademy.ac.za)**, a tertiary-level design school situated in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
 
-It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I started retracing some of my steps. This included, among others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some seminal [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
+It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I started retracing some of my steps. This included, among others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some formative [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
 
-Given that it's been almost a decade now, I was \(perhaps reasonably\) anticipating that most of the material would age quite poorly. To the contrary, I was surprised by the degree to which it still holds up. One thing I didn't anticipate though is how my own experiences over the last couple of years would shape how I would re-read them. Some sections and paragraphs that I glossed over initially ended up being treasure troves of insight this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current _Director of Design_ at [Adobe](https://www.adobe.com/)\):
+A decade is a long time.
+
+I was \(perhaps reasonably\) anticipating that most of the material would age poorly. However, I'm surprised by the degree to which it holds up. One thing I didn't anticipate though is how my own experiences over the last couple of years would shape my re-reading of the material. Some sections and paragraphs that I  initially glossed over ended up being treasure troves this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current _Director of Design_ at [Adobe](https://www.adobe.com/)\):
 
 > _When you engage in a new client project how do you get started? A solid process plays a critical role in the project’s overall success, yet this process is one of the deepest darkest secrets of our industry_.
 >
 > — Samantha Warren, [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work)
 
-I could perhaps not have said this any better myself. My time in the industry shaped my appreciation for the ease with which a robust design process can derail due to a designer \(or design team\) not fully stepping into their role as process facilitator.
+This really resonated with me.
 
-### A Facilitator's Interface
+My time in the industry shaped my appreciation for the ease with which a robust design process can derail due to a designer \(or design team\) not fully stepping into their role as process facilitator.
 
-**At some point, I had a naive expectation that a designer's job would be purely technical.** 
+### Designing as Facilitation
 
-Over time I've come to realise that modern-day web designers not only design external-facing deliverables, but also internal-facing experiences intended to help the client \(or team\) navigate the design process itself. I also became aware of how anaemic this part of the process tended to be. From what I've been able to piece together at that time it seemed to come down to a misconception of designers as solitary, creative creatures that disappear into their respectively little caves \(or perhaps cubicles\) and re-emerge with a creative masterpiece.
+Which makes sense.
+
+**I, myself, had a naive expectation at one point that a designer's job would be purely technical in nature.** 
+
+However, over time I've come to realise that modern-day web designers not only design external-facing deliverables, but also internal-facing experiences intended to aid the client \(or team\) navigate the design process itself. I also became aware of how anaemic this part of the process tended to be. From what I've been able to piece together at that time it seemed to come down to a misconception of designers as solitary, creative creatures that disappear into their respectively little caves \(or perhaps cubicles\) and re-emerge with a creative masterpiece.
 
 I've over-dramatised the above for comedic effect. In practice, the former tends to plays out more subtly. To quote [Adam Connor](http://adamconnor.com/) and [Aaron Irizarry](https://www.linkedin.com/in/aaroni/) from their seminal [Discussing Design](https://www.oreilly.com/library/view/discussing-design/9781491902394/) \(2015\):
 
