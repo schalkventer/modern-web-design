@@ -4,5 +4,5 @@
 
 ## Essays
 
-* [Agreeing on Style: The Weird Parts](essays/the-hidden-90.md)
+* [Style Direction: A Systematic Approach](essays/the-hidden-90.md)
 

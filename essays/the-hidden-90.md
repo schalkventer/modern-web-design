@@ -1,11 +1,14 @@
----
-description: >-
-  The current digital product design world sports a seemingly endless array of
-  tools and process which we are able to employ in service of establishing the
-  functionality and structure of our products. T
----
+# Style Direction: A Systematic Approach
 
-# Agreeing on Style: The Weird Parts
+The current digital product design world sports a seemingly endless array of tools and process which we are able to employ in service of establishing the functionality and structure of our products. Journey mapping, wire-framing, site-mapping and rapid prototyping have long been stock standard in the digital designer's toolbox.
+
+Paradoxically, there seems to be very little established processes or tools that allow teams to cross-functionally iterate over concerns that are of a more aesthetic, stylistic or look-and-feel nature. It more often seems that this part of the discussion is exclusively left up to the visual team alone, with very little actionable input from the rest of the team. Are we doomed to a world of "Make it classic, but with a modern twist" or "It needs to be professional, but with a casual feel" adjective-salads? Where we attempt our best interpretation of these slippery terms, hoping that the team or client leave us alone to be the sole "experts" when it comes to deciding on aesthetics?
+
+Fortunately, it doesn't need to be this way. 
+
+**Below I cover some approaches that I've borrowed from other teams and individuals, and how you \(in the spirit of iteration\) can remix and work them into your own design process.**
+
+
 
 ![](../.gitbook/assets/iceberg.png)
 
