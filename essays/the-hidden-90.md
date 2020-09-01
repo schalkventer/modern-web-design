@@ -75,9 +75,9 @@ In my experience, good discussions around establishing style tends to pop up whe
 * [Brad Frost](https://bradfrost.com/)
 * [The Clearleft Team](https://clearleft.com/)
 
-An interesting observation is that these individuals/teams tend to be big advocates of [designing in the open](https://bradfrost.com/blog/post/designing-in-the-open) too. I can only speculate, but my guess is that at the root of our reluctance to discuss/share the look-and-feel part of our process is rooted in insecurity. One that brings to the forefront something that is at odds with the common solitary, creative-creatures understanding of designers as shared above. 
+An interesting observation is that these individuals/teams tend to be big advocates of [designing in the open](https://bradfrost.com/blog/post/designing-in-the-open) too. I can only speculate, but my guess is that at the root of our reluctance to discuss/share the look-and-feel part of our process is rooted in insecurity. One that brings to the forefront something that is at odds with the romantic vision of designers as solitary, creative-creatures that bring ideas into existence out of nothing.
 
-My persona experience is a bit at odds with this. Web designers \(perhaps more so than other design fields\) are deeply embedded in what anthropologists like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) call [bricolage](https://en.wikipedia.org/wiki/Bricolage):
+However, by now it's probably clear that my personal understand is at odds with this notion. Furthermore, from a purely academic point of view, web design \(perhaps more so than any other field of design\) is deeply embedded in what anthropologists like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) call [bricolage](https://en.wikipedia.org/wiki/Bricolage):
 
 > _"This is what is commonly called ‘bricolage’ in French. In its old sense the verb ‘bricoler’ applied to ball games and billiards, to hunting, shooting and riding. It was however always used with reference to some extraneous movement: a ball rebounding, a dog straying or a horse swerving from its direct course to avoid an obstacle. And in our own time the 'bricoleur' is still someone who works with his hands and uses devious means compared to those of a craftsman. \[...\]_
 >
@@ -87,35 +87,48 @@ My persona experience is a bit at odds with this. Web designers \(perhaps more s
 
 **That is quite a mouthful!** 
 
-Luckily, [Austin Kleon](http://austinkleon.com/) paraphrases it as follows in [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\):
+Luckily it can be paraphrased as the following:, [Austin Kleon](http://austinkleon.com/) paraphrases it as follows in [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\):
 
 > _The writer Jonathan Lethem has said that when people call something “original,” nine out of ten times they just don’t know the references or the original sources involved. What a good artist understands is that nothing comes from nowhere. All creative work builds on what came before. Nothing is completely original._
 >
 > _\[...\]_
 >
 > _If we’re free from the burden of trying to be completely original, we can stop trying to make something out of nothing, and we can embrace influence instead of running away from it._
+>
+> — Austin Kleon, [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\)
 
-**In short:**
+I find it interesting that we don't have these same conflicting feelings around functionality, no one has ever been accused of "stealing" one of the following ideas:
 
-Not only do I see the way towards a more deliberate process around style/look-and-feel as being embedded in approaching web design as remixing, but that it furthermore requires us to have the courage to expose this hidden part of the process to our peers and clients.
+* Having a header that sticks to the top of the screen as you scroll down.
+* Having an input form in the footer to sign up for a newsletter.
+* Having a "scroll-to-top" button.
+* Having a pop-up 
+
+The reality is that the our interfaces are built on convention and user familiarity. Not only do I see the way towards a more deliberate process around style/look-and-feel as being embedded in approaching web design as remixing, but that it furthermore requires us to have the courage to expose this hidden part of the process to our peers and clients.
+
+Our style decisions come from somewhere, let us own these sources instead of hiding them.
 
 ![](../.gitbook/assets/messy%20%281%29.png)
 
-### Manoeuvres with Black Markers
+### Elimination as Creation
 
-It is perhaps interesting to note that Austin Kleon, initially made a name for himself by creating [Vocabularyclept poems](https://en.wikipedia.org/wiki/Vocabularyclept_poem). A technique initially devised by early [Dadaists](https://en.wikipedia.org/wiki/Dada), in which a series of poems are assembled with existing textual content from newspaper clippings or even existing literature. Late Beat-era poet, [William S. Burroughs](https://en.wikipedia.org/wiki/William_S._Burroughs), really pushed this concept to its limit with a 336-page work of fiction titled [The Soft Machine](https://en.wikipedia.org/wiki/The_Soft_Machine) \(1961\). Both Kleon and Burroughts, in creating these works, bring to the highlight not only how central bricolage is to the act of creation, but that selecting what to not include \(by the act of cutting itself\) is equal in centrality. As Mark Twain elequently put it:
+It is perhaps fitting that Austin Kleon \(whom we quoted above\), initially made a name for himself by creating [Vocabularyclept poems](https://en.wikipedia.org/wiki/Vocabularyclept_poem). A technique initially devised by early [Dadaists](https://en.wikipedia.org/wiki/Dada), in which a series of poems are assembled by recomposing existing textual content from newspaper clippings or even existing literature. Late Beat-era poet, [William S. Burroughs](https://en.wikipedia.org/wiki/William_S._Burroughs), really pushed this concept to its limit with a 336-page work of fiction titled [The Soft Machine](https://en.wikipedia.org/wiki/The_Soft_Machine) \(1961\). Both Kleon and Burroughts, in creating these works, highlight not only how central bricolage is to the act of any creative act, but that selecting what to exclude \(by the act of cutting itself\) is equal in centrality. As Mark Twain eloquently put it:
 
 > Writing is easy. All you have to do is cross out the wrong words
 
-I would say that establishing a look-and-feel direction is easy, you just need to cross out the wrong directions. Brad Frost further expanded on this concept by comparing web design to the subtractive process of sculpting: 
+I would say that establishing a look-and-feel direction is easy, you just need to cross out the wrong directions. To a certain degree, this is what we've been doing, however we've been doing this by committing to a look-and-feel first before we know whether it should be crossed out.
+
+It would be to our benefit if we were able eliminate the wrong approaches by means of wider strokes. Brad Frost articulates a similar vision in [Atomic Design](https://atomicdesign.bradfrost.com/) \(2016\): 
 
 > I believe a successful digital design process is quite similar to subtractive stone sculpture. At the beginning of the sculpting process, the artist and their patron have a general idea of what’s being created, but that vision won’t be fully realized until the sculpture is complete.
 >
 > The sculptor starts with a giant slab of rock and starts chipping away. A crude shape begins to form after the first pass, and the shape becomes more pronounced with every subsequent pass. After a few rounds of whacking away at the rock, it becomes clear that the sculptor’s subject is a human form.
+>
+> — Brad Frost, [Atomic Design](https://atomicdesign.bradfrost.com/) \(2016\)
 
 I've shared this analogue with various practitioners and students over the years. It has served me extremely well. The critical implication \(once again\) being that similar to sculpturing we should start with broad strokes of negation \(or as Brad put it "whacking away at rock"\) before we start refining smaller details. 
 
-However, I always felt that there might be a better analogy, since the above doesn't make provision for material artefacts that might guide this process. That is until I stumbled across an analogue that does allow this:
+However, I've always felt that there might be a better analogy, since the above doesn't make provision for tools and material artefacts that might guide this process. That is until I stumbled across an analogue that does allow this:
 
 **The game of** [**Battleship**](https://en.wikipedia.org/wiki/Battleship_%28game%29)\*\*\*\*
 
@@ -125,38 +138,51 @@ However, I always felt that there might be a better analogy, since the above doe
 
 If you're not familiar with the rules of Battleship, they are as follows:
 
-1. Each player starts with two grid-based surfaces:
+1. Each player starts with two different grid-based surfaces:
    * One to place your ships and record which of \(and where\) your own ships have been hit.
    * Another to record your own shots against the other player \(and whether they miss or hit\).
 2. Players take turns to fire shots by guessing coordinates where the other player's ships might be placed \(for example `E2` or `H7`\)
-3. If you guess correctly you add a red pin to a grid, if you guessed incorrectly you add a white pin.
+3. If you guess correctly you add a red pin to your representation of the other players area, if you guessed incorrectly you add a white pin.
 4. The first one to sink all of the other player's ships wins.
 
-### Placing our Pins
+As someone with a background in the visual arts I can't help but feel that this is also similar to how one would approach a painting. Starting with broad, big strokes and then working your way inwards refining detail as you go.
 
-Once you've played a couple of games of Battleship you'll naturally end up following this true and trusted approach: 
+If you've never played Battleship before you might be tempted to start in one corner and incrementally work your way across the grid, as you would in [Go](https://en.wikipedia.org/wiki/Go_%28game%29). However, you'll soon find that this is an extremely inefficient approach. The common Battleship approach goes something along these lines:
 
-**Start by scattering your guesses as widely as possible and only once something is hit you should start sweeping the immediate area around it, mapping out the type and shape of the ship.**
+**Start by scattering your guesses as widely as possible and only once something is hit should you start sweeping the immediate area around it, mapping out the type and shape of the ship in the area.**
 
-However, there is something extremely fitting for me in the iterative manner that this happens in Battleship. I see a lot of parallels in how my own process evolved over the past years. Returning back to the leap-of-faith example I cited above wit is easy to see how this approach stands in opposition to that. 
-
-It would be akin to guessing an array of coordinates at once and then only depending whether they hit or not, clearing the entire board and perhaps starting again if you didn't sink all their ships. Essentially going from the vague/wide space of adjectives to a concrete/narrow scope of actual elements in a single shot \(without no iteration/feedback in between\).
-
-Luckily there are tools to do this is more systematic, gradual and measured manner.
+Luckily we can take a similar approach to establishing an agreed upon style as follows:
 
 ![](../.gitbook/assets/line.png)
 
-### 
+### 20 Second Gut Test
 
-### Helpful Resources
+Let's start start with an approach called to the [20 second gut test](https://clearleft.com/posts/20-second-gut-tests). This is quite similar to the common usability [5-second test](https://fivesecondtest.com/) that takes the following form:
+
+> Five second tests are a method of user research that help you measure what information users take away and what impression they get within the first five seconds of viewing a design. They're commonly used to test whether web pages are effectively communicating their intended message.
+>
+> — [Usability Hub](https://usabilityhub.com/)
+
+You can repurposed the latter for the sake of aesthetics/look-and-fee \(however you will need to extend the time to around 20 seconds, since these take a bit longer to take in\).
+
+I've had a lot of success by doing the following: 
+
+* Collecting various screenshots of websites or apps that I think fit the list of 
+* Creating a slideshow \(I usually use [Slides.com](https://slides.com/) or [Google Slides](https://www.google.com/slides) - however any presentation software should work\)
+
+### Moodboards
 
 ...
 
-### A Word of Warning
+### Style Tiles
 
 ...
 
-### Further Reading
+### Element Collages
+
+...
+
+### Iterating over Iteration
 
 ...
 
