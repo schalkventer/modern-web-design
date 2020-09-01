@@ -1,24 +1,32 @@
+---
+description: >-
+  A cross-functional, non-designer friendly approach to discussions aesthetics
+  and style with losing your mind.
+---
+
 # Style Direction: A Systematic Approach
 
-The current digital product design world sports a seemingly endless array of tools and process which we are able to employ in service of establishing the functionality and structure of our products. Journey mapping, wire-framing, site-mapping and rapid prototyping have long been stock standard in the digital designer's toolbox.
+The digital design world sports a seemingly endless selection of tools to aid the process of establishing the functional and structural nature of our products. Journey mapping, wire-framing, site-mapping and rapid prototyping have long been standard tools in the modern designer's toolbox.
 
-Paradoxically, there seems to be very little established processes or tools that allow teams to cross-functionally iterate over concerns that are of a more aesthetic, stylistic or look-and-feel nature. It more often seems that this part of the discussion is exclusively left up to the visual team alone, with very little actionable input from the rest of the team. Are we doomed to a world of "Make it classic, but with a modern twist" or "It needs to be professional, but with a casual feel" adjective-salads? Where we attempt our best interpretation of these slippery terms, hoping that the team or client leave us alone to be the sole "experts" when it comes to deciding on aesthetics?
+However, there seems to be very little established tools supporting a cross-functional based approach to the aesthetics and visual style of our products. It more often than not seems that this part of the discussion is either left entirely up to the designer or subject to micro-managed design-by-committee hell. 
 
-Fortunately, it doesn't need to be this way. 
+Which prompted me to ask, are we forced between different degrees of these two extremes? Do we need to resign ourselves to vague adjective-salads like "classic, but with a modern twist" or "formal, but yet laid-back at the same time", with no clear indication of what these actually look like. Or alternatively, merely apply a foregone design direction dictated by the client or marketing department? I understand why most designers just want to be left alone, and follow their own gut when it comes to aesthetics and styling.
 
-**Below I cover some approaches that I've borrowed from other teams and individuals, and how you \(in the spirit of iteration\) can remix and work them into your own design process.**
+**Fortunately, the process doesn't need to be this awkward.**
 
+**Below I will cover some of the approaches I've seen work really well over the years. Most of these come from established teams and individuals, and have therefore been battle-tested against various types of project.**
 
+**However, in the spirit of collaboration and iteration, I will help you remix these into your own design process.**
 
 ![](../.gitbook/assets/iceberg.png)
 
-**I recently started teaching Interaction Design at the** [**Creative Academy**](https://creativeacademy.ac.za)**, a tertiary-level design school situated in** [**Cape Town, South Africa**](https://en.wikipedia.org/wiki/Cape_Town)**.**
+About a month ago I started teaching Interaction Design at the [Creative Academy](https://creativeacademy.ac.za), a tertiary-level design school situated in [Cape Town, South Africa](https://en.wikipedia.org/wiki/Cape_Town). It's been a couple of years since I started my journey into the world of digital product design, and in the context of the former, I started retracing some of my steps. 
 
-It's been a couple of years since I started my journey into the world of web design, and in the context of the former, I started retracing some of my steps. This included, among others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some formative [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
+This included, among others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some formative [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
 
-A decade is a long time.
+However, a decade is a long time.
 
-I was \(perhaps reasonably\) anticipating that most of the material would age poorly. However, I'm surprised by the degree to which it holds up. One thing I didn't anticipate though is how my own experiences over the last couple of years would shape my re-reading of the material. Some sections and paragraphs that I  initially glossed over ended up being treasure troves this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current _Director of Design_ at [Adobe](https://www.adobe.com/)\):
+I was \(perhaps reasonably\) anticipating that most of the material would age poorly. Yet I was surprised by the degree to which they hold up. One thing I didn't anticipate though is how my own experiences over the last couple of years would shape my re-reading of the material. Some sections and paragraphs that I  initially glossed over ended up being treasure troves this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current _Director of Design_ at [Adobe](https://www.adobe.com/)\):
 
 > _When you engage in a new client project how do you get started? A solid process plays a critical role in the project’s overall success, yet this process is one of the deepest darkest secrets of our industry_.
 >
