@@ -1,26 +1,26 @@
 # Establishing Visual Style: A Systematic Approach
 
-The digital design world sports a seemingly endless selection of tools to aid the process of establishing the functional and structural nature of our products. Journey mapping, wire-framing, site-mapping and rapid prototyping have long been standard tools in the modern designer's toolbox.
+The digital design world sports a seemingly endless selection of tools to aid the process of establishing the functional and structural nature of our products. Journey mapping, wireframing, site-mapping and rapid prototyping have long been standard tools in the modern designer’s toolbox.
 
-However, there seems to be very little established tools supporting a cross-functional based approach to the aesthetics and visual style of our products. It more often than not seems that this part of the discussion is either left entirely up to the designer or subject to micro-managed design-by-committee hell. 
+However, there seem to be very little established tools supporting a cross-functional based approach to the aesthetics and visual style of our products. It more often than not appears that this part of the discussion is either left entirely up to the designer or subject to micro-managed design-by-committee hell. 
 
-Which prompted me to ask, are we forced between different degrees of these two extremes? Do we need to resign ourselves to vague adjective-salads like "classic, but with a modern twist" or "formal, but yet laid-back at the same time", with no clear indication of what these actually look like. Or alternatively, merely apply a foregone design direction dictated by the client or marketing department? I understand why most designers just want to be left alone, and follow their own gut when it comes to aesthetics and styling.
+Which prompted me to ask, are we forced between different degrees of these two extremes? Do we need to resign ourselves to vague adjective-salads like "classic, but with a modern twist" or "formal, but yet laid-back at the same time", with no clear indication of how these might look. Alternatively, merely apply a foregone design direction dictated by the client or marketing department? I understand why most designers want to be left alone and follow their gut when it comes to aesthetics and styling.
 
 **Fortunately, the process doesn't need to be this awkward.**
 
-**Below I will cover some of the approaches I've seen work really well over the years. Most of these come from established teams and individuals, and have therefore been battle-tested against various types of project.**
+**Below I will cover some of the approaches I've seen work well over the years. Most of these come from established teams and have therefore been battle-tested against various types of project.**
 
-**However, in the spirit of collaboration and iteration, I will help you remix these into your own design process.**
+**However, in the spirit of collaboration and iteration, I will help you remix these into your design process.**
 
 ![](../.gitbook/assets/iceberg.png)
 
-About a month ago I started teaching Interaction Design at the [Creative Academy](https://creativeacademy.ac.za), a tertiary-level design school situated in [Cape Town, South Africa](https://en.wikipedia.org/wiki/Cape_Town). It's been a couple of years since I started my journey into the world of digital product design, and in the context of the former, I started retracing some of my steps. 
+About a month ago, I started teaching Interaction Design at the [Creative Academy](https://creativeacademy.ac.za), a tertiary-level design school situated in [Cape Town, South Africa](https://en.wikipedia.org/wiki/Cape_Town). It's been a couple of years since I started my journey into the world of digital product design, and in the context of the former, I started retracing some of my steps. 
 
-This included, among others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some formative [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
+Retracing my step included, among others, rummaging through several bookcases in search of a dusty [Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) by [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug) and \(the more recent\) [Atomic Design](https://shop.bradfrost.com/) by [Brad Frost](https://bradfrost.com/). I also went back into history, re-reading some formative [Smashing Magazine](https://www.smashingmagazine.com/) and [A List Apart](https://alistapart.com/) articles.
 
 However, a decade is a long time.
 
-I was \(perhaps reasonably\) anticipating that most of the material would age poorly. Yet I was surprised by the degree to which they hold up. One thing I didn't anticipate though is how my own experiences over the last couple of years would shape my re-reading of the material. Some sections and paragraphs that I  initially glossed over ended up being treasure troves this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current _Director of Design_ at [Adobe](https://www.adobe.com/)\):
+I was \(perhaps reasonably\) anticipating that most of the material would age poorly. Yet I was surprised by the degree to which these hold up. One thing I didn't expect though is how my own experiences over the last couple of years would shape my re-reading of the material. Some sections and paragraphs that I  initially glossed over ended up being treasure troves this time around. The most prominent was perhaps the introductory paragraph to [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work) by [Samantha Warren](http://samanthatoy.com/) \(current _Director of Design_ at [Adobe](https://www.adobe.com/)\):
 
 > _When you engage in a new client project how do you get started? A solid process plays a critical role in the project’s overall success, yet this process is one of the deepest darkest secrets of our industry_.
 >
@@ -28,15 +28,13 @@ I was \(perhaps reasonably\) anticipating that most of the material would age po
 
 This really resonated with me.
 
-My time in the industry shaped my appreciation for the ease with which a robust design process can derail due to a designer \(or design team\) not fully stepping into their role as process facilitator.
+My time in the industry shaped my appreciation for the ease with which a robust design process can derail due to a designer \(or design team\) not fully stepping into their role as facilitator.
 
 ### Designing as Facilitation
 
-Which makes sense.
-
 **I, myself, had a naive expectation at one point that a designer's job would be purely technical in nature.** 
 
-However, over time I've come to realise that modern-day web designers not only create external-facing deliverables, but also internal-facing experiences intended to aid the client \(or team\) with the process itself. Futhermore, I became aware of how anaemic this hidden part of the process tends to be. From what I've been able to piece together \(at that time\) it seemed to come down to a misconception of designers as solitary, creative creatures that disappear into their respectively caves \(or perhaps cubicles\) and re-emerge with a creative masterpiece - seemling creating something from the nothingness of blank page or screen.
+However, over time I've come to realise that modern-day web designers create not only external-facing deliverables, but also internal-facing experiences intended to aid the client \(or team\) with the process itself. Furthermore, I became aware of how anaemic this hidden part of the process tends to be. From what I've been able to piece together \(at that time\) it seemed to come down to a misconception of designers as solitary, creative creatures that disappear into their respective creative-caves \(or perhaps cubicles\) and re-emerge with a creative masterpiece - seeming to create something from the nothingness of blank page or screen.
 
 I've slightly over-dramatised the above for comedic effect. However, in practice, this assumption tends to plays out more subtly. To quote [Adam Connor](http://adamconnor.com/) and [Aaron Irizarry](https://www.linkedin.com/in/aaroni/) from their seminal [Discussing Design](https://www.oreilly.com/library/view/discussing-design/9781491902394/) \(2015\):
 
@@ -46,13 +44,13 @@ I've slightly over-dramatised the above for comedic effect. However, in practice
 >
 > Collaboration and coordination are critical elements in the success of projects in most \(if not all\) modern organizations. There isn’t a single individual who is responsible for coming up with an idea, designing it, building it, selling it, and supporting it. Instead, these responsibilities and the expertise that come with them are divided among a variety of contributors who each bring knowledge to the team. So, we need to work together, combining our skills and know-how. And to work together, we need to talk with one another. We need to discuss what it is we’re designing, why we’re creating it, and how it will all come together.
 
-Luckily \(from where I was standing\), it appeared as if change was on the horizon.
+Luckily \(from where I was standing\), it appeared as if a change was on the horizon.
 
-I started seeing teams catch onto this notion. [Personas](https://en.wikipedia.org/wiki/Persona_%28user_experience%29), [experience maps](https://en.wikipedia.org/wiki/User_journey) and [user stories](https://en.wikipedia.org/wiki/User_story) started becoming more cross-functional and inter-departmental instead of something that was handed off by a single designer. In my own microcosm working at [OpenUp](https://openup.org.za/), it seemed unreal how easily we were able to persuade  [South Africa's National Department of Treasury](https://openup.org.za/projects/vulekamali), a government department known for layers of bureaucracy, to actively engage in these exercises.
+I started seeing teams catch onto this notion. [Personas](https://en.wikipedia.org/wiki/Persona_%28user_experience%29), [experience maps](https://en.wikipedia.org/wiki/User_journey) and [user stories](https://en.wikipedia.org/wiki/User_story) started becoming more cross-functional and inter-departmental instead of something that was handed off by a single designer. In my own microcosm working at [OpenUp](https://openup.org.za/), it seemed unreal how easily we were able to persuade  [South Africa's National Department of Treasury](https://openup.org.za/projects/vulekamali), a government department known for layers of bureaucracy, to engage in these exercises actively.
 
 **Indeed cross-functional** [**design thinking**](https://en.wikipedia.org/wiki/Design_thinking) **seems to have entered the mainstream.**
 
-However, I couldn't help but feel that we still missed one piece of the puzzle: a deliberate and calculated way in which to iterate and discuss stylistic \(or otherwise known as look-and-feel\) concerns. More often than not conversations about stylistic decisions were preceded by designers retreating once again behind their magical creative-curtains and re-emerging with beautifully styled elements. We were lucky enough to have the incredibly talented [Matthew Stark](http://matthewstark.co/) at on board OpenUp, which meant that more often than not, we landed firmly on our feet. However, I couldn't shake the feeling that our approach boiled down to a leap of faith into the world of look-and-feel.
+However, I couldn't help but feel that we still missed one piece of the puzzle: a deliberate and calculated way in which to iterate and discuss stylistic \(or otherwise known as look-and-feel\) concerns. More often than not, conversations about stylistic decisions started with designers retreating once again behind their magical creative-curtains and re-emerging with beautifully styled elements. We were lucky enough to have the incredibly talented [Matthew Stark](http://matthewstark.co/) at onboard OpenUp, which meant that more often than not, we landed firmly on our feet. However, I couldn't shake the feeling that our approach boiled down to a leap of faith into the world of look-and-feel.
 
 In short, it went something along these lines:
 
@@ -70,17 +68,17 @@ You might even tell me that this process works very well for you.
 
 The sheer scope and plurality of approaches in the current web design landscape are so far beyond what a single person can comprehend that I don't claim to have any insight into a one-true process. The risk \(and possible wastage of time/budget\) associated with taking this leap in your context might be so small that the reduced efficiency of learning a new process might not be worth it. There is a big difference between getting the style wrong for a plumber's website and the getting the look-and-feel wrong of a governmental's public data portal.
 
-It might also be that you are already working inside well-established stylistic confines. Perhaps you are part of a larger corporate brand that already has a well thought-out design system, style guide, and/or pattern library.
+It might also be that you are already working inside well-established stylistic confines. Perhaps you are part of a larger corporate brand that already has a well-thought-out design system, style guide, and pattern library.
 
 **I short: you might find yourself in web design heaven.**
 
-However, for the rest of us that are still stuck in purgatory \(between words like 'Modern'/'Classic' and a high-fidelity mock-up\) there has to be numerous tools to approach styling as a systematic, cross-functional exercise? Right?
+However, for the rest of us that are still stuck in purgatory \(between words like 'Modern'/'Classic' and a high-fidelity mock-up\), there have to be numerous tools to approach styling as a systematic, cross-functional exercise? Right?
 
 **Not exactly.**
 
-When compared against tooling around establishing content, functionality and structure of the things we build, the tooling around establishing style seem pretty lack-luster. Luckily, there are some good resources here and there. You just need to know where to look. 
+When compared against tooling around establishing content, functionality and structure of the things we build, the tooling around establishing visual style seem pretty lack-lustre. Luckily, there are some excellent resources here and there. You merely merely need to know where to look. 
 
-In my experience, good discussions around establishing style tends to pop up where-ever you find these folks:
+In my experience, good discussions around establishing style tend to pop up where-ever you find these folks:
 
 * [Dan Mall](https://danmall.me/)
 * [Andy Clark](https://stuffandnonsense.co.uk/about)
@@ -89,7 +87,7 @@ In my experience, good discussions around establishing style tends to pop up whe
 
 An interesting observation is that these individuals/teams tend to be big advocates of [designing in the open](https://bradfrost.com/blog/post/designing-in-the-open) too. I can only speculate, but my guess is that at the root of our reluctance to discuss/share the look-and-feel part of our process is rooted in insecurity. One that brings to the forefront something that is at odds with the romantic vision of designers as solitary, creative-creatures that bring ideas into existence out of nothing.
 
-However, by now it's probably clear that my personal understand is at odds with this notion. Furthermore, from a purely academic point of view, web design \(perhaps more so than any other field of design\) is deeply embedded in what anthropologists like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) call [bricolage](https://en.wikipedia.org/wiki/Bricolage):
+However, by now, it's probably clear that my personal understanding is at odds with this notion. Furthermore, from a purely theoretical point of view, web design \(perhaps more so than any other field of creation\) is deeply embedded in what anthropologists like [Claude Lévi-Strauss](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss) call [bricolage](https://en.wikipedia.org/wiki/Bricolage):
 
 > _"This is what is commonly called ‘bricolage’ in French. In its old sense the verb ‘bricoler’ applied to ball games and billiards, to hunting, shooting and riding. It was however always used with reference to some extraneous movement: a ball rebounding, a dog straying or a horse swerving from its direct course to avoid an obstacle. And in our own time the 'bricoleur' is still someone who works with his hands and uses devious means compared to those of a craftsman. \[...\]_
 >
@@ -99,7 +97,7 @@ However, by now it's probably clear that my personal understand is at odds with 
 
 **That is quite a mouthful!** 
 
-Luckily it can be paraphrased as the following:, [Austin Kleon](http://austinkleon.com/) paraphrases it as follows in [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\):
+Luckily it can be paraphrased as the following:
 
 > _The writer Jonathan Lethem has said that when people call something “original,” nine out of ten times they just don’t know the references or the original sources involved. What a good artist understands is that nothing comes from nowhere. All creative work builds on what came before. Nothing is completely original._
 >
@@ -109,14 +107,18 @@ Luckily it can be paraphrased as the following:, [Austin Kleon](http://austinkle
 >
 > — Austin Kleon, [Steal Like an Artist](https://austinkleon.com/steal/) \(2012\)
 
-I find it interesting that we don't have these same conflicting feelings around functionality, no one has ever been accused of "stealing" one of the following ideas:
+I find it interesting that we don't have these same conflicting feelings around functionality; few are accused of "stealing" one of the following ideas:
 
 * Having a header that sticks to the top of the screen as you scroll down.
 * Having an input form in the footer to sign up for a newsletter.
 * Having a "scroll-to-top" button.
 * Having a pop-up 
 
-The reality is that the our interfaces are built on convention and user familiarity. Not only do I see the way towards a more deliberate process around style/look-and-feel as being embedded in approaching web design as remixing, but that it furthermore requires us to have the courage to expose this hidden part of the process to our peers and clients.
+The reality is we build our interfaces on convention and user familiarity. I'm convinced that the road to a  more deliberate process around style/look-and-feel is embedded with the view of web design as remixing.
+
+
+
+ as being embedded in approaching , but that it furthermore requires us to have the courage to expose this hidden part of the process to our peers and clients.
 
 Our style decisions come from somewhere, let us own these sources instead of hiding them.
 
