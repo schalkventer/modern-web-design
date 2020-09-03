@@ -4,5 +4,5 @@
 
 ## Essays
 
-* [Style Direction: A Systematic Approach](essays/the-hidden-90.md)
+* [Establishing Visual Style: A Systematic Approach](essays/the-hidden-90.md)
 

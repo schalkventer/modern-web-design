@@ -1,10 +1,4 @@
----
-description: >-
-  A cross-functional, non-designer friendly approach to discussions aesthetics
-  and style with losing your mind.
----
-
-# Style Direction: A Systematic Approach
+# Establishing Visual Style: A Systematic Approach
 
 The digital design world sports a seemingly endless selection of tools to aid the process of establishing the functional and structural nature of our products. Journey mapping, wire-framing, site-mapping and rapid prototyping have long been standard tools in the modern designer's toolbox.
 
